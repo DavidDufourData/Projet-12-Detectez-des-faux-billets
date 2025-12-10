@@ -27,7 +27,7 @@ L’objectif est de construire un modèle supervisé capable de distinguer les v
 - Évaluation via précision, rappel, matrice de confusion  
 
 ## Outils utilisés
-- Python  
+- Notebook Jupyter  
 - Scikit-learn, Pandas, NumPy  
 
 ##
